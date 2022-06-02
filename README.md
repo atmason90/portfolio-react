@@ -19,6 +19,8 @@ The purpose of this project was to create a professional portfolio using React a
 
 ## Screenshot
 
+![2022-06-01 20 29 35](https://user-images.githubusercontent.com/99947655/171549053-9019a5ce-7651-4ecc-ad4c-3b17e6a76962.gif)
+
 ## Code Examples
 
 This example shows each of my components being imported and used in my App.js file
