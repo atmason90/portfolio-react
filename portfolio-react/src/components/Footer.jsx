@@ -35,13 +35,13 @@ const Footer = () => {
                         Contact
                         </Link>
                     </li>
-                    <li>
+                    <li className='hover:text-[#ff66c4]'>
                         <a href="https://www.linkedin.com/in/andrewmason0529/" target='#'>LinkedIn</a>
                     </li>
-                    <li>
+                    <li className='hover:text-[#ff66c4]'>
                         <a href="https://github.com/atmason90" target='#'>GitHub</a>
                     </li>
-                    <li>
+                    <li className='hover:text-[#ff66c4]'>
                         <a href="https://medium.com/@atmason90" target='#'>Medium</a>
                     </li>
                 </ul>
