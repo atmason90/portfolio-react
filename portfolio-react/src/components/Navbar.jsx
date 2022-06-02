@@ -16,7 +16,7 @@ const Navbar = () => {
         </div> 
 
         {/* navbar menu */}
-        <ul className='hidden md:flex'>
+        <ul className='hidden sm:flex'>
             <li className='hover:text-[#ff66c4]'>
                 <Link to='home' smooth={true} duration={500}>
                     Home
@@ -45,7 +45,7 @@ const Navbar = () => {
         </ul>
         
         {/* hamburger */}
-        <div onClick={handleClick} className='md:hidden z-10'>
+        <div onClick={handleClick} className='sm:hidden z-40'>
             {!nav ? <FaBars /> : <FaTimes />}
         </div>
         {/* mobile menu */}
