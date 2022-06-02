@@ -85,7 +85,7 @@ This example shows how I built out my navbar menu and used the react-scroll pack
 ![CSS Badge](https://img.shields.io/badge/Language-CSS-blue)
 ![Tailwind CSS badge](https://img.shields.io/badge/Framework-TailwindCSS-green)
 ![React badge](https://img.shields.io/badge/Frontend-React-informational)
-![react-scroll Badge](https://img.shields.io/badge/NPM-react-scroll-red)
+![react-scroll Badge](https://img.shields.io/badge/NPM-ReactScroll-red)
 ![getform Badge](https://img.shields.io/badge/Forms-GetForm-yellowgreen)
 
 ## Questions
