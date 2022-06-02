@@ -50,11 +50,31 @@ const Navbar = () => {
         </div>
         {/* mobile menu */}
         <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'}>
-            <li className='py-6 text-4xl'>Home</li>
-            <li className='py-6 text-4xl'>About Me</li>
-            <li className='py-6 text-4xl'>Resume</li>
-            <li className='py-6 text-4xl'>Projects</li>
-            <li className='py-6 text-4xl'>Contact</li>
+            <li className='py-6 text-4xl hover:text-[#ff66c4]'>
+                <Link onClick={handleClick} to='home' smooth={true} duration={500}>
+                Home
+                </Link>
+            </li>
+            <li className='py-6 text-4xl hover:text-[#ff66c4]'>
+                <Link onClick={handleClick} to='about' smooth={true} duration={500}>
+                About Me
+                </Link>
+            </li>
+            <li className='py-6 text-4xl hover:text-[#ff66c4]'>
+                <Link onClick={handleClick} to='resume' smooth={true} duration={500}>
+                Resume
+                </Link>
+            </li>
+            <li className='py-6 text-4xl hover:text-[#ff66c4]'>
+                <Link onClick={handleClick} to='projects' smooth={true} duration={500}>
+                Projects
+                </Link>
+            </li>
+            <li className='py-6 text-4xl hover:text-[#ff66c4]'>
+                <Link onClick={handleClick} to='contact' smooth={true} duration={500}>
+                Contact
+                </Link>
+            </li>
         </ul>
 
         {/* social icons */}
