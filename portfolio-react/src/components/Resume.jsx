@@ -39,7 +39,10 @@ const Resume = () => {
             <div>
       </div>
         </div>
-        <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#ff66c4] hover:border-[#ff66c4]'>Download My Resume<span><BsDownload className='ml-3' /></span></button>
+        <a href="https://drive.google.com/file/d/1wYsH2dNr3WzDzxkQggT2Yt7v8GplWKbu/view?usp=sharing" target='#'>
+        <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#ff66c4] hover:border-[#ff66c4]'>Download My Resume<span><BsDownload className='ml-3' /></span>
+        </button>
+        </a>
       </div>
     </div>
   )
