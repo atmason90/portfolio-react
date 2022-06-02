@@ -13,7 +13,7 @@ const Projects = () => {
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
             <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#ff66c4]'>Projects</p>
-            <p className='py-6'>Check out some of my recent projects</p>
+            <p className='py-6 text-xl'>Check out some of my recent projects</p>
         </div>
 
         {/* container */}
@@ -124,7 +124,7 @@ const Projects = () => {
                     </span>
                     <div className='pt-8 text-center'>
                        <a href="https://user-images.githubusercontent.com/99947655/166392001-e153fc6e-ddc9-4334-8ab9-fb791541c65e.mp4" target='#'>
-                           <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Deployed</button>
+                           <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a> 
                         <a href="https://github.com/atmason90/employee-management-system" target='#'>
                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Repo</button>
