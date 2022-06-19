@@ -133,25 +133,6 @@ const Projects = () => {
                     </div>
                 </div>
             </div>
-
-            {/* grid item */}
-            <div style={{ backgroundImage: `url(${ems})` }} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-                
-                {/* hover effects */}
-                <div className='opacity-0 group-hover:opacity-100'>
-                    <span className='text-2xl justify-center font-bold text-white tracking-wider'>
-                        Employee Mgmt. System
-                    </span>
-                    <div className='pt-8 text-center'>
-                       <a href="https://user-images.githubusercontent.com/99947655/166392001-e153fc6e-ddc9-4334-8ab9-fb791541c65e.mp4" target='#'>
-                           <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                        </a> 
-                        <a href="https://github.com/atmason90/employee-management-system" target='#'>
-                           <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Repo</button>
-                        </a> 
-                    </div>
-                </div>
-            </div>
         </div>
       </div>
     </div>
