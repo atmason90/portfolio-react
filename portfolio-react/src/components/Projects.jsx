@@ -4,7 +4,6 @@ import blog from '../assets/techblog.jpeg';
 import editor from '../assets/texteditor.jpeg';
 import social from '../assets/socialnetwork.jpeg';
 import ecomm from '../assets/ecomm.jpeg';
-import ems from '../assets/ems.jpeg';
 import hungrysharks from '../assets/hungrysharks.gif';
 
 
