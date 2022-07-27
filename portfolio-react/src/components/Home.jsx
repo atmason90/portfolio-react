@@ -9,7 +9,7 @@ const Home = () => {
       {/* container */}
       <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
         <div>
-            <img className='hidden sm:flex scale-50 mt-12 h-[500px] w-[500px] rounded-full' src="https://media-exp1.licdn.com/dms/image/C5603AQH0J5Cw8dVdiQ/profile-displayphoto-shrink_400_400/0/1590033296984?e=1658361600&v=beta&t=WzRO2p88XWmL8crX0kfHMKe4f_qO843pgoKJ8N232Ks" alt="Andrew Mason" />
+            <img className='hidden sm:flex scale-50 mt-12 h-[500px] w-[500px] rounded-full' src="https://media-exp1.licdn.com/dms/image/C5603AQH0J5Cw8dVdiQ/profile-displayphoto-shrink_800_800/0/1590033296984?e=1664409600&v=beta&t=VI6xJHGGAr-GWDxouXbEH6TKA2hz9LtL4hRqNnaF5eU" alt="Andrew Mason" />
         </div>
         <p className='text-[#ff66c4] text-lg'>Hi, my name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Andrew Mason</h1>
